@@ -15,7 +15,7 @@ export default {
   height: 40px;
   border-radius: 50%;
   border: 8px solid lightgray;
-  border-top: 8px solid gray;
+  border-top: 8px solid lightblue;
   animation: spin 2s linear infinite;
 }
 @keyframes spin{
